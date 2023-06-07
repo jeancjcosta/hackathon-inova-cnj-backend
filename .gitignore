@@ -1,0 +1,16 @@
+
+\.idea/
+
+teste\.py
+
+__pycache__/
+
+rtf/
+
+arquivo@\.csv
+
+*.pdf
+
+.env
+
+base/
